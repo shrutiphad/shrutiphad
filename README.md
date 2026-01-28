@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Shruti Phad  
 
-<!--
-**shrutiphad/shrutiphad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 Full Stack Engineer🎓 EXTC Engineer | 🤖 AI/ML Learner 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on CampusHire 
+
+🌱 I’m currently learning displaying hardware readings on websites &  fastAPI 
+
+💬 Ask me about MERN/PERN Stack, React, Python, IoT, and cracking interviews!
+
+📫 How to reach me:  
+- ✉️ Email: shrutiphadwork@gmail.com  
+- 💼 LinkedIn:(https://www.linkedin.com/in/shruti-phad-7901aa325/)
+- 🐙 GitHub: (https://github.com/shrutiphad)
+
+⚡ Fun fact: I think its never too late to be a beginner. 
