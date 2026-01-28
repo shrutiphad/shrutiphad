@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shruti Phad  
+Hi 👋, I'm Shruti Phad  
 
 ---
 
