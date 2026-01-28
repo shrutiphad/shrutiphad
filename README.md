@@ -1,6 +1,6 @@
-Hi 👋, I'm Shruti Phad  
+# Hi 👋, I'm Shruti Phad  
 
----
+
 
  💻 Full Stack Engineer |🎓 EXTC Engineer | 🤖 AI/ML Learner 
 
