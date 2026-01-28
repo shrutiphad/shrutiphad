@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shruti Phad  
 
- 💻 Full Stack Engineer🎓 EXTC Engineer | 🤖 AI/ML Learner 
+ 💻 Full Stack Engineer |🎓 EXTC Engineer | 🤖 AI/ML Learner 
 
 ---
 
@@ -12,7 +12,7 @@
 
 📫 How to reach me:  
 - ✉️ Email: shrutiphadwork@gmail.com  
-- 💼 LinkedIn:(https://www.linkedin.com/in/shruti-phad-7901aa325/)
-- 🐙 GitHub: (https://github.com/shrutiphad)
+- 💼 LinkedIn(https://www.linkedin.com/in/shruti-phad-7901aa325/
+- 🐙 GitHub: https://github.com/shrutiphad
 
 ⚡ Fun fact: I think its never too late to be a beginner. 
