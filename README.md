@@ -1,8 +1,8 @@
 # Hi 👋, I'm Shruti Phad  
 
- ##💻 Full Stack Engineer |🎓 EXTC Engineer | 🤖 AI/ML Learner 
+ #💻 Full Stack Engineer |🎓 EXTC Engineer | 🤖 AI/ML Learner 
 
---
+---
 
 🔭 I’m currently working on CampusHire 
 
