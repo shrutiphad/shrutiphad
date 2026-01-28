@@ -2,7 +2,7 @@
 
 
 
- 💻 Full Stack Engineer |🎓 EXTC Engineer | 🤖 AI/ML Learner 
+ 💻 Full Stack Developer |🎓 EXTC Engineer | 🤖 AI/ML Learner 
 
 
 
