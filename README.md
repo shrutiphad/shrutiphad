@@ -6,9 +6,9 @@
 
 
 
-🔭 I’m currently working on CampusHire 
+🔭 I’m currently working on CampusHire.
 
-🌱 I’m currently learning displaying hardware readings on websites &  fastAPI 
+🌱 I’m currently learning how to build a LLM from sratch.
 
 💬 Ask me about MERN/PERN Stack, Next.js, Python, IoT, and cracking interviews!
 
