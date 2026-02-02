@@ -8,7 +8,7 @@
 
 🔭 I’m currently working on CampusHire.
 
-🌱 I’m currently learning how to build a LLM from sratch.
+🌱 I’m currently learning how to build a LLM from scratch.
 
 💬 Ask me about MERN/PERN Stack, Next.js, Python, IoT, and cracking interviews!
 
