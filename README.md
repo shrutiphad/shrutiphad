@@ -6,7 +6,7 @@
 
 
 
-🔭 I’m currently working on CampusHire.
+🔭 I’m currently working on CampusHire and DSA.
 
 🌱 I’m currently learning how to build a LLM from scratch and have a crazy drive to PITCH ideas, deals, insights :)
 
